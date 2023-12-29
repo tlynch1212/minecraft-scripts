@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "testiong 314321432143214321"
 cd ./minecraft
 
 # Retrieve latest version of Minecraft Bedrock dedicated server
